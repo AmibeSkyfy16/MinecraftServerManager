@@ -1,0 +1,54 @@
+.sbutton{
+    -fx-background-color: #ffa624;
+    -fx-background-radius: 25;
+}
+
+/*.sbutton:hover{*/
+/*    -fx-cursor: hand;*/
+/*}*/
+
+/*.sbutton:hover, .sbutton:focused{*/
+/*    -fx-border-color: #E92D43;*/
+/*    -fx-border-width: 5;*/
+/*    -fx-border-radius: 25;*/
+/*    -fx-border-insets: -1;*/
+/*}*/
+
+/*.sbutton:pressed{*/
+/*    -fx-background-color: #E92D43;*/
+/*    -fx-border-insets: -1;*/
+/*    -fx-border-width: 5;*/
+/*}*/
+
+/*.server-btn{*/
+/*    -fx-background-color: #f9c74f;*/
+/*    -fx-background-radius: 20;*/
+/*}*/
+
+.sbutton:pressed{
+    -fx-background-color: #E92D43;
+    -fx-border-insets: -1;
+    -fx-border-width: 5;
+    -fx-border-radius: 20;
+}
+
+.server-btn:hover, .server-btn:selected{
+    -fx-border-color: #f94144;
+    -fx-border-insets: -1;
+    -fx-border-width: 5;
+    -fx-border-radius: 20;
+
+}
+
+#create-server{
+    -fx-background-color: #43aa8b;
+}
+#create-server:hover{
+    -fx-border-color: #8ac926;
+    -fx-border-width: 3;
+    -fx-border-radius: 25;
+    -fx-border-insets: -1;
+}
+#create-server:pressed{
+    -fx-background-color: #8ac926;
+}

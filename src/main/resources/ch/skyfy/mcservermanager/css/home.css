@@ -1,0 +1,71 @@
+.scroll-pane > .viewport{
+/*    -fx-border-insets: 0;*/
+/*    -fx-border-radius: 0;*/
+/*    -fx-border-width: 0;*/
+/*    -fx-border-color: yellow ;*/
+    -fx-background-color: beige;
+/*    -fx-control-inner-background: blue;*/
+/*    -fx-indent: 0;*/
+/*    -fx-stroke-width: 0;*/
+/*    -fx-background-insets: 0;*/
+/*    -fx-effect: null;*/
+/*    -fx-padding: 0;*/
+/*    -fx-end-margin: 0;*/
+/*    -fx-start-margin: 0;*/
+}
+
+/*.scroll-pane > .scroll-bar > .thumb{*/
+/*    -fx-border-insets: 0;*/
+/*    -fx-border-radius: 0;*/
+/*    -fx-background-insets: 0;*/
+/*    -fx-control-inner-background: blue;*/
+/*    -fx-border-width: 0;*/
+/*    -fx-border-color: red;*/
+/*}*/
+
+/*.scroll-pane > .scroll-bar > .track{*/
+/*    -fx-border-insets: 0;*/
+/*    -fx-border-radius: 0;*/
+/*    -fx-border-width: 0;*/
+/*    -fx-background-insets: 0;*/
+/*    -fx-border-color: red;*/
+/*}*/
+/*.scroll-pane > *{*/
+/*    -fx-border-insets: 0;*/
+/*    -fx-border-radius: 0;*/
+/*    -fx-border-width: 0;*/
+/*    -fx-border-color: yellow ;*/
+/*    -fx-background-color: yellow;*/
+/*    -fx-control-inner-background: blue;*/
+/*    -fx-background-insets: 0;*/
+/*    -fx-effect: null;*/
+/*    -fx-padding: 0;*/
+/*    -fx-end-margin: 0;*/
+/*    -fx-start-margin: 0;*/
+/*}*/
+/*.scroll-pane.edge-to-edge{*/
+/*    -fx-border-insets: 0;*/
+/*    -fx-border-radius: 0;*/
+/*    -fx-border-width: 0;*/
+/*    -fx-control-inner-background: blue;*/
+/*    -fx-border-color: yellow ;*/
+/*    -fx-background-color: red !important;*/
+/*    -fx-background-insets: 0;*/
+/*    -fx-padding: 0;*/
+/*    -fx-effect: null;*/
+/*}*/
+
+
+.scroll-pane{
+    /*-fx-border-insets: 0;*/
+    /*-fx-border-radius: 0;*/
+    /*-fx-border-width: 0;*/
+    /*-fx-border-color: yellow ;*/
+    /*-fx-background-color: yellow;/*/
+    /*-fx-control-inner-background: blue;*/
+    /*-fx-background-inset/s: 0;*/
+    /*-fx-effect: null;*/
+    -fx-padding: 0;
+    /*-fx-end-margin: 0;*/
+    /*-fx-start-margin: 0;*/
+}
